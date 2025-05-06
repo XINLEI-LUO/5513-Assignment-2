@@ -1,0 +1,12 @@
+---
+title: "Example"
+author: "XINLEI LUO"
+format: html
+editor: visual
+---
+
+## Quarto
+
+```{r}
+1 + 1
+```
