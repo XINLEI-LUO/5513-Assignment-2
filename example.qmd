@@ -10,3 +10,5 @@ editor: visual
 ```{r}
 1 + 1
 ```
+
+[my github repository](https://github.com/XINLEI-LUO/5513-Assignment-2.git)
