@@ -11,4 +11,13 @@ editor: visual
 1 + 1
 ```
 
+
 [my github repository](https://github.com/XINLEI-LUO/5513-Assignment-2.git)
+
+```{r}
+knitr::include_graphics("1.png")
+```
+
+```{r}
+knitr::include_graphics("2.png")
+```
